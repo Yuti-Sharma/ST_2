@@ -1,0 +1,22 @@
+MagicalArena/
+│
+├── src/
+│   ├── main/
+│   │   ├── java/
+│   │   │   ├── arena/
+│   │   │   │   ├── Main.java
+│   │   │   │   ├── Player.java
+│   │   │   │   ├── Arena.java
+│   │   │   │   └── Dice.java
+|   |
+│   ├── test/
+│   │   ├── java/
+│   │   │   ├── arena/
+│   │   │   │   ├── PlayerTest.java
+│   │   │   │   ├── ArenaTest.java
+│   │   │   │   └── DiceTest.java
+│
+|
+├── .gitignore
+|
+└── README.md
